@@ -11,11 +11,11 @@ highlighter: pygments
 title : CSE Quadcopter
 tagline:
 author : Eli Gonzalez
-  name : 
-  email : 
-  github : 
-  twitter : 
-  feedburner : 
+name : 
+email : 
+github : 
+twitter : 
+feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -30,7 +30,7 @@ production_url : http://egonzalezjr555.github.io
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
-  version : 0.3.0
+version : 0.3.0
 
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
@@ -80,32 +80,32 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
-    disqus :
-      short_name : jekyllbootstrap
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
-   
+  provider : disqus
+  disqus :
+  short_name : jekyllbootstrap
+  livefyre :
+  site_id : 123
+  intensedebate :
+  account : 123abc
+  facebook :
+  appid : 123
+  num_posts: 5
+  width: 580
+  colorscheme: light
+  
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
-    google : 
-        tracking_id : 'UA-123-12'
-    getclicky :
-      site_id : 
-    mixpanel :
-        token : '_MIXPANEL_TOKEN_'
-    piwik :
+  provider : google 
+  google : 
+  tracking_id : 'UA-123-12'
+  getclicky :
+  site_id : 
+  mixpanel :
+  token : '_MIXPANEL_TOKEN_'
+  piwik :
         baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
         idsite : '1'                   # the id of the site on Piwik
 
@@ -115,8 +115,8 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
-    
+  provider : false
+  
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
   #
