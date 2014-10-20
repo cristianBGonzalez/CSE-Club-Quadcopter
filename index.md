@@ -15,5 +15,8 @@ Hello and welcome to our website for the CSE Club Quadorotor project in Californ
   {% endfor %}
 </ul>
 
-For more information on the CSE Club please go to the official <a href="www.cse-club.com"/>CSE CLub</a> website.
-Here is the <a href="https://github.com/egonzalezjr555/CSE-Club-Quadcopter"/>repository page</a>.
+## Infromation
+<ul>
+  <li>For more information on the CSE Club please go to the official <a href="www.cse-club.com">CSE Club</a> website.</li> 
+  <li>The <a href="https://github.com/egonzalezjr555/CSE-Club-Quadcopter">repository page</a>.</li>
+</ul>
