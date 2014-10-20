@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello World!
-tagline: Working on a quadrotor
+tagline: We are working on a quadrotor!
 ---
 {% include JB/setup %}
 
