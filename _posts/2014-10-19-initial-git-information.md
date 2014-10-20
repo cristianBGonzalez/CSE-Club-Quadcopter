@@ -11,6 +11,8 @@ tags: ["general"]
 
 Hello this is an introduction to what each contributor needs to do for the project I shall cover some of the basics for helping out with this project. Before you begin though make sure that you have a github account and have it setup on your computer.
 
+##Cloning the repo
+
 So the repository page of the project is: http://github.com/egonzalezjr555/CSE-Club-Quadcopter. When you get there you will need to focus on making own copy of the repository which you shall do by clicking on the button that says fork. After that you will need to copy that repository to your computer using git. To do this you must first go to the the directory in which you want to be in either through the cmd or some other terminal program. After that you will need  to get the SSH clone url (from your account) and copy it. Type the following command in your terminal.
 
 {% highlight bash %}
@@ -30,6 +32,8 @@ git checkout IMU
 {% endhighlight %}
 
 I should note that right now we are pretty much starting from scratch so there is no need to synchronize your repository, but eventually we will need to, so I will post more info on doing that later.
+
+##Pushing changes to your repo and issuing a pull request
 
 Moving forward after you make changes that you need to make you need to push those changes to your repository and these can be done by typing the following commands:
 
