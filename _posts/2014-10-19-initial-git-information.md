@@ -11,7 +11,7 @@ tags: ["general"]
 
 Hello this is an introduction to what each contributor needs to do for the project I shall cover some of the basics for helping out with this project. Before you begin though make sure that you have a github account and have it setup on your computer.
 
-So the repository page of the project is: https://github.com/egonzalezjr555/CSE-Club-Quadcopter. When you get there you will need to focus on making own copy of the repository which you shall do by clicking on the button that says fork. After that you will need to copy that repository to your computer using git. To do this you must first go to the the directory in which you want to be in either through the cmd or some other terminal program. After that you will need  to get the SSH clone url (from your account) and copy it. Type the following command in your terminal.
+So the repository page of the project is: http://github.com/egonzalezjr555/CSE-Club-Quadcopter. When you get there you will need to focus on making own copy of the repository which you shall do by clicking on the button that says fork. After that you will need to copy that repository to your computer using git. To do this you must first go to the the directory in which you want to be in either through the cmd or some other terminal program. After that you will need  to get the SSH clone url (from your account) and copy it. Type the following command in your terminal.
 
 {% highlight bash %}
 git clone "paste  SSH url here"
@@ -39,4 +39,6 @@ git commit -m "Type a message about your push here"
 git push origin "Name of branch"
 {% endhighlight %}
 
-Finally, go back to the main repository and issue a pull request from your branch to the branch in the main repository. This is done by going to https://github.com/egonzalezjr555/CSE-Club-Quadcopter and clicking on the button to create pull requests located to the left and directly on top of where the files are listed. Before initiating the pull request, make sure that you switch to the correct branch. After initiating a pull request it will initiate a review of it in which the request shall be merged or denied.
+Finally, go back to the main repository and issue a pull request from your branch to the branch in the main repository. This is done by going to http://github.com/egonzalezjr555/CSE-Club-Quadcopter and clicking on the button to create pull requests located to the left and directly on top of where the files are listed. Before initiating the pull request, make sure that you switch to the correct branch. After initiating a pull request it will initiate a review of it in which the request shall be merged or denied.
+
+If you have any questions feel free to contact me at gonze365@coyote.csusb.edu or Cristian at crisgonzalez346@gmail.com.
