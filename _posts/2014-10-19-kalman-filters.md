@@ -18,12 +18,12 @@ This is a post that will redirect us to Kalman filters and will serve as an intr
 
 I have also included a few documents that were posted you might find some more useful than others. 
 
-+ [A Quaternion-based Unscented Kalman Filter for Orientation Tracking]({{ site.url }}/assets/PDF_IMU/kalman1.pdf)
-+ [Alternative Quadcopter Design]({{ site.url }}/assets/PDF_IMU/kalman2.pdf)
-+ [Design of Quadrotor Hovering System Based on Inertial Measurement Unit Sensor]({{ site.url }}/assets/PDF_IMU/kalman3.pdf)
-+ [Design Optimization of a Quad-Rotor Capable of Autonomous Flight]({{ site.url }}/assets/PDF_IMU/kalman4.pdf)
-+ [Full Quaternion Based Attitude Control for a Quadrotor]({{ site.url }}/assets/PDF_IMU/kalman5.pdf)
-+ [Quadroter Using Minimal Sensing For Autonomous Indoor Flight]({{ site.url }}/assets/PDF_IMU/kalman6.pdf)
-+ [The Unscented Kalman Filter for Nonlinear Estimation]({{ [BASE_PATH] }}/assets/PDF_IMU/kalman7.pdf)
++ [A Quaternion-based Unscented Kalman Filter for Orientation Tracking]({{BASE_PATH}}/assets/PDF_IMU/kalman1.pdf)
++ [Alternative Quadcopter Design]({{BASE_PATH}}/assets/PDF_IMU/kalman2.pdf)
++ [Design of Quadrotor Hovering System Based on Inertial Measurement Unit Sensor]({{BASE_PATH}}/assets/PDF_IMU/kalman3.pdf)
++ [Design Optimization of a Quad-Rotor Capable of Autonomous Flight]({{BASE_PATH}}/assets/PDF_IMU/kalman4.pdf)
++ [Full Quaternion Based Attitude Control for a Quadrotor]({{BASE_PATH}}/assets/PDF_IMU/kalman5.pdf)
++ [Quadroter Using Minimal Sensing For Autonomous Indoor Flight]({{BASE_PATH}}/assets/PDF_IMU/kalman6.pdf)
++ [The Unscented Kalman Filter for Nonlinear Estimation]({{BASE_PATH}}/assets/PDF_IMU/kalman7.pdf)
 
 I know this is a lot of information you don't have to read this all for now all you need to do is understand what it is we are trying to do and start planning with the group on how to coordinate the projects.
